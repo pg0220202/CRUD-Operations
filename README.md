@@ -4,6 +4,6 @@ The Django CRUD Student Management System is a web application designed to effic
 ## Live Demo
 Check out the live demo [here](http://prashant0202.pythonanywhere.com/).
 ## Technologies Used
--Django Framework: Provides the backbone for developing the web application, managing routing, views, and database interactions.
--HTML, CSS, BOOTSTRAP: Frontend technologies utilized to create an intuitive and visually appealing user interface.
--SQLite Database: Backend database management system seamlessly integrated with Django for storing and retrieving student records
+*Django Framework: Provides the backbone for developing the web application, managing routing, views, and database interactions.
+*HTML, CSS, BOOTSTRAP: Frontend technologies utilized to create an intuitive and visually appealing user interface.
+*SQLite Database: Backend database management system seamlessly integrated with Django for storing and retrieving student records
